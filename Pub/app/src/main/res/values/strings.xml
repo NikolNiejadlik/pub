@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pub</string>
+    <string name="wiat_alkoholi">Świat alkoholi!</string>
+    <string name="ulalallalalalala_wybierz_co_chcesz_wypic_pararapappapapa">Ulalallalalalala. Wybierz co chcesz wypic ? Pararapappapapa</string>
+    <string name="co_chcesz">Co chcesz?</string>
+    <string name="lista_drinkow">Lista Drinkow</string>
+    <string name="wybierz">Wybierz</string>
+    <string name="cosmopolitan">Cosmopolitan</string>
+    <string name="todo">TODO</string>
+    <string name="_15_00_z">15.00 zł</string>
+    <string name="wybierz1">Wybierz</string>
+</resources>
